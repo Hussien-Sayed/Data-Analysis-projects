@@ -1,3 +1,4 @@
+## Medical-appointment-dataset
 In this project I explore "The Medical Appointment No Shows" Dataset which contains information about some patients' medical appointments like :
 * The IDs of the patient and the appointment.
 * The gendre and age of the patient.
