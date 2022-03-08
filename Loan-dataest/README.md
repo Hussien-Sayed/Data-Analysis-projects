@@ -1,4 +1,6 @@
-I used Loan Data From Prosper Dataset.
+# Loan-dataset
+
+In this project I apply exploratory and explanatory analysis on the "Loan Data From Prosper" dataset which contains information about loans (81 features).
 
 
 ### The main findings of the exploratory analysis are:
